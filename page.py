@@ -76,8 +76,8 @@ st.markdown(
     }
     </style>
     <div class="footer">
-        <p>Made with ❤️ by Alexander</p>
-        <p>See more at <a href="https://github.com/alekiie" target="_blank">https://github.com/alekiie</a></p>
+        <p>Built with ☕, too many bug fixes, and a dash of magic by Alexander 🧙‍♂️</p>
+        <p>Curious? Explore my digital playground at <a href="https://github.com/alekiie" target="_blank">GitHub</a> 🕵️‍♂️</p>
     </div>
     """,
     unsafe_allow_html=True
