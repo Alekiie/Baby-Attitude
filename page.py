@@ -18,7 +18,7 @@ st.title("Baby Attitude Classification")
 
 
 st.markdown('---')
-st.subheader("Upload an image of a baby to classify the attitude of the baby")
+st.subheader("Upload an image of a baby to classify their attitude..")
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "jpeg", "png"])
 st.markdown('---')
 
